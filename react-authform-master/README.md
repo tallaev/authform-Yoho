@@ -11,7 +11,7 @@ npm i
 npm start
 ```
 ```bash
-# via NPM (у себя в проекте)
+# via NPM (в проекте)
 npm i @john0504/react-authform
 ...
 import {AuthForm} from "@john0504/react-authform";
